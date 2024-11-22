@@ -1,0 +1,8 @@
+{
+    "Nombre del archivo": "OFICIO.pdf",
+    "Tama\u00f1o del archivo": "1.53 KB",
+    "Fecha de creaci\u00f3n": "2024-11-19 16:33:02",
+    "Fecha de \u00faltima modificaci\u00f3n": "2024-11-19 16:33:02",
+    "Autor": "LEONELA",
+    "Ruta del archivo": "C:\\xampp\\htdocs\\metadatos_app\\results\\OFICIO.pdf"
+}

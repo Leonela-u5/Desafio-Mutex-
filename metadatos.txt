@@ -1,0 +1,1 @@
+No se pudo obtener información del PDF. Asegúrate de que pdfinfo esté instalado en el servidor.
