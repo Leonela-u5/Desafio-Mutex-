@@ -1,0 +1,8 @@
+{
+    "Nombre del archivo": "dome.pdf",
+    "Tama\u00f1o del archivo": "4.01 KB",
+    "Fecha de creaci\u00f3n": "2024-11-26 02:01:05",
+    "Fecha de \u00faltima modificaci\u00f3n": "2024-11-26 02:01:35",
+    "Autor": "dome",
+    "Ruta del archivo": "C:\\xampp\\htdocs\\metadatos_app\\results\\dome.pdf"
+}

@@ -1,0 +1,8 @@
+{
+    "Nombre del archivo": "45.pdf",
+    "Tama\u00f1o del archivo": "1.5 KB",
+    "Fecha de creaci\u00f3n": "2024-11-23 01:52:42",
+    "Fecha de \u00faltima modificaci\u00f3n": "2024-11-23 23:37:18",
+    "Autor": "45",
+    "Ruta del archivo": "C:\\xampp\\htdocs\\metadatos_app\\results\\45.pdf"
+}

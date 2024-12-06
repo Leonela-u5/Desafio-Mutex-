@@ -1,0 +1,8 @@
+{
+    "Nombre del archivo": "La_histo.pdf",
+    "Tama\u00f1o del archivo": "0 KB",
+    "Fecha de creaci\u00f3n": "1970-01-01 01:00:00",
+    "Fecha de \u00faltima modificaci\u00f3n": "1970-01-01 01:00:00",
+    "Autor": "Brunito",
+    "Ruta del archivo": false
+}

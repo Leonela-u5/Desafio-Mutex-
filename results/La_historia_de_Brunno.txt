@@ -1,0 +1,8 @@
+{
+    "Nombre del archivo": "La_historia_de_Brunno.pdf",
+    "Tama\u00f1o del archivo": "3.59 KB",
+    "Fecha de creaci\u00f3n": "2024-11-26 02:29:28",
+    "Fecha de \u00faltima modificaci\u00f3n": "2024-11-26 02:29:28",
+    "Autor": "Brunito",
+    "Ruta del archivo": "C:\\xampp\\htdocs\\metadatos_app\\results\\La_historia_de_Brunno.pdf"
+}

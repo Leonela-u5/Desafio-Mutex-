@@ -1,0 +1,8 @@
+{
+    "Nombre del archivo": "LER.pdf",
+    "Tama\u00f1o del archivo": "1.55 KB",
+    "Fecha de creaci\u00f3n": "2024-11-26 02:39:49",
+    "Fecha de \u00faltima modificaci\u00f3n": "2024-11-26 02:39:49",
+    "Autor": "Brunito",
+    "Ruta del archivo": "C:\\xampp\\htdocs\\metadatos_app\\results\\LER.pdf"
+}

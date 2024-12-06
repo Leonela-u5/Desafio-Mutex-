@@ -1,0 +1,8 @@
+{
+    "Nombre del archivo": "LERUBU.pdf",
+    "Tama\u00f1o del archivo": "3.54 KB",
+    "Fecha de creaci\u00f3n": "2024-11-26 02:43:44",
+    "Fecha de \u00faltima modificaci\u00f3n": "2024-11-26 02:43:44",
+    "Autor": "Brunito",
+    "Ruta del archivo": "C:\\xampp\\htdocs\\metadatos_app\\results\\LERUBU.pdf"
+}
